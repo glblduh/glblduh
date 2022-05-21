@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there 👋
+I like to code things that I would probably use.
 
-<!--
-**glblduh/glblduh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Language I like
+* **Go** – for making backends.
+* **C** – for making libraries.
+* **Python** – for prototyping ideas.
 
-Here are some ideas to get you started:
+### GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=glblduh&show_icons=true&theme=radical&hide_border=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages Used
+![Languages used](https://github-readme-stats.vercel.app/api/top-langs?username=glblduh&show_icons=true&theme=radical&hide_border=true)
