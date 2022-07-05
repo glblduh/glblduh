@@ -1,8 +1,8 @@
 # Hi there 👋
 I like to code things that I would probably use.
 
-### Language I like
-* **Go** – for making backends.
+### Languages I like
+* **Go** – for making APIs.
 * **C** – for making libraries.
 * **Python** – for prototyping ideas.
 
