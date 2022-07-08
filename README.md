@@ -2,9 +2,9 @@
 I like to code things that I would probably use.
 
 ### Languages I like
-* **Go** – for making APIs.
-* **C** – for making libraries.
-* **Python** – for prototyping ideas.
+* **Go**
+* **C**
+* **Python**
 
 ### GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=glblduh&show_icons=true&theme=radical&hide_border=true)
