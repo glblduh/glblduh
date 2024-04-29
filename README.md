@@ -1,5 +1,4 @@
 # Hi there 👋
-I like to code things that I would probably use.
 
 ### Languages I like
 * **Go**
